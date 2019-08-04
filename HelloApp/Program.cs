@@ -12,6 +12,8 @@ namespace HelloApp
         {
             Console.WriteLine("Hello Dana, its your husband");
             Console.ReadKey();
+            Byte a = 1;
+            Byte b = (Byte)(a - 1);
         }
     }
 }
